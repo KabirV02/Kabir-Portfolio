@@ -146,7 +146,7 @@ export default function Portfolio() {
             >
             <a
               href="/resume.pdf"
-              download
+              target='_blank'
               className='flex items-center gap-3'
             >
               <Download className="w-5 h-5" />
